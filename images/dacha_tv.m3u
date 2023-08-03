@@ -1,0 +1,22 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+
+#EXTINF:-1 tvg-name="Союз" tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png" ,Союз
+#EXTGRP:ТВ
+https://mhd158.iptv2022.com/p/y72EQ7LMmCNDBaSAe7kFkA,1691178472/streaming/souz/324/5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Спас ТВ" tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" ,Спас
+#EXTGRP:ТВ
+https://salam-mskm9-20.rutube.ru/dive/river-7-701.rutube.ru/7FbLPEU9C3n8UB5Kp2Md3g/stream/musang-701.brz.rutube.ru/G5lj8mO4Tgs70knDbFcyqw/1691180317/2bbfa9ebf9d79ade480d7281fcef1008/360p_stream.m3u8
+
+#EXTINF:-1 tvg-name="Радость_Моя" tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" ,Радость Моя
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.1.895 Yowser/2.5 Safari/537.36
+https://radm.mediacdn.ru/cdn/radost/playlist_sdlow.m3u8
+
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 
+#EXTGRP:ТВ
+https://salam-mskth-12.rutube.ru/dive/river-7-702.rutube.ru/Q9WjSmLPUWdCe72INp0tfA/stream/musang-601.cvt.rutube.ru/7uVjFxn_b0BvvhhIJmcRsQ/1691179076/03929f2f53f4eeb0c9095043d6c55096/360p_stream.m3u8
+
+
+
+# Playlist created by http://profi-rus.narod.ru/
